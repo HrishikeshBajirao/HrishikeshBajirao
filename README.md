@@ -1,19 +1,18 @@
 # Hi there, I'm Hrishikesh Bajirao 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and love working on a variety of projects. Here you'll find a collection of my work, from personal projects to contributions to open-source communities.
+Welcome to my GitHub profile! I'm passionate about software development and love working on a variety of projects. Here you'll find a collection of my work.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** C++, Python, HTML, CSS, Javascript
 - **Frameworks & Libraries:** React, Node.js, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins
+- **Databases:** PostgreSQL, MongoDB
 - **Other Tools:** Git, VS Code, Linux
 
 ## 🌱 What I'm Currently Learning
 
 - Advanced algorithms and data structures
-- Cloud computing with AWS and Azure
+- Backend Technologies
 - Machine learning and artificial intelligence with Python
 
 ## 🚀 Projects
