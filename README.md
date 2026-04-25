@@ -13,7 +13,6 @@ Welcome to my GitHub profile!
 
 - Advanced algorithms and data structures
 - Backend Technologies
-- Machine learning and artificial intelligence with Python
 
 ## 📫 How to Reach Me
 
