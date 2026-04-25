@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🔧 Technologies & Tools
 
 - **Languages:** C++, Python, HTML, CSS, Javascript
-- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Frameworks & Libraries:** React, Node.js
 - **Databases:** PostgreSQL, MongoDB
 - **Other Tools:** Git, VS Code, Linux
 
