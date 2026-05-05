@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## 🔧 Technologies & Tools
 
 **Languages:**  
-C++, Python, HTML, CSS, JavaScript
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++, Python, HTML, CSS, JavaScript
 
 **Frameworks & Libraries:**  
 React, Node.js, D3.js
@@ -15,6 +15,11 @@ PostgreSQL, MongoDB
 
 **Other Tools:**  
 Git, VS Code, Linux
+
+## 🚀 Tech Stack
+
+
+
 
 ## 📊 D3.js Data Visualization Projects
 
