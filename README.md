@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 C++, Python, HTML, CSS, JavaScript
 
 **Frameworks & Libraries:**  
-React, Node.js, D3.js
+React, Node.js, D3.js, TailwindCSS
 
 **Databases:**  
 PostgreSQL, MongoDB
@@ -49,7 +49,6 @@ D3.js, SVG-based charts, scales, axes, tooltips, legends, color encoding, intera
 
 - Advanced algorithms and data structures
 - Backend technologies
-- Data visualization with D3.js
 
 ## 📫 How to Reach Me
 
