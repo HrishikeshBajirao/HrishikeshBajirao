@@ -2,26 +2,6 @@
 
 Welcome to my GitHub profile!
 
-## 💻 Technical Skills
-
-- **Languages:** JavaScript (ES6+), C++, Python, SQL, HTML5, CSS3
-- **Frontend:** React, Vite, Tailwind CSS, D3.js
-- **Backend:** Node.js, Express.js *(currently learning)*
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, Linux, VS Code, npm
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ## 🌍 Featured Project — Atlas
 
 Atlas is a modern web application for exploring and comparing countries around the world.
@@ -45,6 +25,28 @@ Currently building:
 
 **Skills demonstrated:**  
 Frontend architecture, backend API development, database design, authentication, RESTful services, state management, responsive UI, scalable full-stack application development, Git workflow
+
+## 💻 Technical Skills
+
+- **Languages:** JavaScript (ES6+), C++, Python, SQL, HTML5, CSS3
+- **Frontend:** React, Vite, Tailwind CSS, D3.js
+- **Backend:** Node.js, Express.js *(currently learning)*
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Linux, VS Code, npm
+
+## 🚀 Tech Stack
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 D3.js Data Visualization Projects
 
