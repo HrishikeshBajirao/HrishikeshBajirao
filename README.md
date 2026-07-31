@@ -10,8 +10,6 @@ Welcome to my GitHub profile!
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, GitHub, Linux, VS Code, npm
 
-## 🚀 Tech Stack
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,6 +25,8 @@ Welcome to my GitHub profile!
 ## 🌍 Featured Project — Atlas
 
 Atlas is a modern web application for exploring and comparing countries around the world.
+
+🔗 **Repository:** https://github.com/HrishikeshBajirao/atlas
 
 Current features include:
 
@@ -45,8 +45,6 @@ Currently building:
 
 **Skills demonstrated:**  
 Frontend architecture, backend API development, database design, authentication, RESTful services, state management, responsive UI, scalable full-stack application development, Git workflow
-
-🔗 **Repository:** https://github.com/HrishikeshBajirao/atlas
 
 ## 📊 D3.js Data Visualization Projects
 
