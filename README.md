@@ -68,7 +68,6 @@ D3.js, SVG-based charts, scales, axes, tooltips, legends, color encoding, intera
 
 - Express.js
 - Backend Architecture
-- PostgreSQL
 - System Design
 - Advanced Data Structures & Algorithms
 
