@@ -23,8 +23,10 @@ Currently building:
 - 👤 User accounts and favorites
 - ⚙️ Full-stack backend
 
-**Skills demonstrated:**  
-Frontend architecture, backend API development, database design, authentication, RESTful services, state management, responsive UI, scalable full-stack application development, Git workflow
+**Technologies Used:**  
+React, JavaScript (ES6+), Vite, Tailwind CSS, REST Countries API, Local Storage, Git, GitHub
+**Skills Demonstrated:**  
+Component-based architecture, React state management, REST API integration, dynamic UI rendering, responsive design, local storage persistence, scalable frontend architecture, Git workflow
 
 ## 💻 Technical Skills
 
