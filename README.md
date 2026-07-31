@@ -25,6 +25,7 @@ Currently building:
 
 **Technologies Used:**  
 React, JavaScript (ES6+), Vite, Tailwind CSS, REST Countries API, Local Storage, Git, GitHub
+
 **Skills Demonstrated:**  
 Component-based architecture, React state management, REST API integration, dynamic UI rendering, responsive design, local storage persistence, scalable frontend architecture, Git workflow
 
