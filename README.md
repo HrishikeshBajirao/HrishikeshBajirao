@@ -4,38 +4,68 @@ Welcome to my GitHub profile!
 
 ## 🌍 Featured Project — Atlas
 
-Atlas is a modern web application for exploring and comparing countries around the world.
+Atlas is a modern React application for exploring and comparing countries around the world.
 
 🔗 **Repository:** https://github.com/HrishikeshBajirao/atlas
 
-Current features include:
+### Current Features
 
-- 🔍 Live country search
+- 🔍 Searchable country search with autocomplete
 - 🆚 Dynamic multi-country comparison
+- 📋 Categorized comparison table
 - 💾 Persistent recent searches
-- 📋 Multiple comparison views
 - 📱 Responsive interface
 
-Currently building:
+### Currently Building
 
-- 📊 Interactive data visualizations
-- 🗺️ World map integration
-- 👤 User accounts and favorites
-- ⚙️ Full-stack backend
+- 📊 Interactive D3.js visualizations
+- 🗺️ Interactive world map
+- ⭐ Favorite countries
+- 🌍 Region-based exploration
 
-**Technologies Used:**  
-React, JavaScript (ES6+), Vite, Tailwind CSS, REST Countries API, Local Storage, Git, GitHub
+**Technologies Used**
 
-**Skills Demonstrated:**  
-Component-based architecture, React state management, REST API integration, dynamic UI rendering, responsive design, local storage persistence, scalable frontend architecture, Git workflow
+React • Vite • Tailwind CSS • JavaScript (ES6+) • REST Countries API • react-select • Local Storage • Git
+
+**Skills Demonstrated**
+
+React architecture • State management • REST API integration • Dynamic UI rendering • Third-party package integration • Responsive UI • Scalable frontend architecture
+
+## ☁️ Featured Project — Meteo
+
+Meteo is a full-stack weather application built to learn backend development, API architecture, and scalable server-side design.
+
+🔗 **Repository:** https://github.com/HrishikeshBajirao/meteo
+
+### Current Features
+
+- 🌤 Live weather search
+- ⚡ Express.js REST API
+- 🔄 React frontend + Express backend
+- 🎨 Responsive weather dashboard
+
+### Currently Building
+
+- 🚀 In-memory caching
+- 📊 Weather insights & visualizations
+- 📍 Enhanced location search
+- ⚙️ Backend performance improvements
+
+**Technologies Used**
+
+React • Node.js • Express.js • JavaScript (ES6+) • Weather API • REST APIs • Git
+
+**Skills Demonstrated**
+
+Full-stack architecture • REST API development • Express routing • Controller-based backend design • Client-server communication • React integration
 
 ## 💻 Technical Skills
 
 - **Languages:** JavaScript (ES6+), C++, Python, SQL, HTML5, CSS3
 - **Frontend:** React, Vite, Tailwind CSS, D3.js
-- **Backend:** Node.js, Express.js *(currently learning)*
+- **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, Linux, VS Code, npm
+- **Tools:** Git, GitHub, npm, Linux, VS Code
 
 ## 🚀 Tech Stack
 
