@@ -53,7 +53,11 @@ Meteo is a full-stack weather application built to learn backend development, AP
 
 **Technologies Used**
 
-React • Node.js • Express.js • JavaScript (ES6+) • Weather API • REST APIs • Git
+React • Node.js • Express.js • JavaScript (ES6+) • Weather API • REST APIs  
+
+**Development Tools**
+
+Git • Postman • VS Code
 
 **Skills Demonstrated**
 
@@ -61,11 +65,23 @@ Full-stack architecture • REST API development • Express routing • Control
 
 ## 💻 Technical Skills
 
-- **Languages:** JavaScript (ES6+), C++, Python, SQL, HTML5, CSS3
-- **Frontend:** React, Vite, Tailwind CSS, D3.js
-- **Backend:** Node.js, Express.js, REST APIs
-- **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, npm, Linux, VS Code
+**Languages:**  
+C++ • JavaScript (ES6+) • Python • SQL • HTML5 • CSS3
+
+**Frontend:**  
+React • Vite • Tailwind CSS • D3.js
+
+**Backend:**  
+Node.js • Express.js • REST APIs
+
+**Databases:**  
+PostgreSQL • MongoDB
+
+**Tools:**  
+Git • GitHub • npm • Linux • VS Code • Postman
+
+**AI Development:**  
+Claude • Codex • ChatGPT
 
 ## 🚀 Tech Stack
 
