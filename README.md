@@ -25,13 +25,6 @@ Atlas v0.6.0 introduces **Insights**, bringing interactive D3.js visualizations 
 - ⚡ Improved request handling and UI reliability
 - 🌐 Country data powered by **countries.dev**
 
-### v0.6.0 Highlights
-
-- 📊 Added Insights view with D3.js visualizations
-- 👥 Added population, area, and density comparisons
-- 🌐 Migrated country data integration to countries.dev
-- ⚡ Improved request handling and UI reliability
-
 ### Currently Building
 
 - 🗺️ Interactive world map
@@ -47,6 +40,10 @@ React • Vite • Tailwind CSS • JavaScript (ES6+) • D3.js • countries.de
 ### 📸 Latest Demo
 
 ![Atlas v0.6.0 Demo](https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif)
+
+<p align="center">
+  <img src="https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif" alt="Atlas Demo" width="400">
+</p>
 
 **Technologies Used**
 
