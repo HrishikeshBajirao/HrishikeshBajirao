@@ -4,24 +4,49 @@ Welcome to my GitHub profile!
 
 ## 🌍 Featured Project — Atlas
 
-Atlas is a modern React application for exploring and comparing countries around the world.
+Atlas is a modern React application for exploring, comparing, and visualizing countries around the world.
 
-🔗 **Repository:** https://github.com/HrishikeshBajirao/atlas
+🔗 **Repository:** [Atlas](https://github.com/HrishikeshBajirao/atlas)
+
+### 🆕 Latest Release — v0.6.0
+
+Atlas v0.6.0 introduces **Insights**, bringing interactive D3.js visualizations into the country comparison experience.
 
 ### Current Features
 
 - 🔍 Searchable country search with autocomplete
 - 🆚 Dynamic multi-country comparison
 - 📋 Categorized comparison table
+- 🗂️ Cards, Table, and Insights views
+- 📊 Interactive D3.js visualizations
+- 👥 Population, area, and population-density comparisons
 - 💾 Persistent recent searches
 - 📱 Responsive interface
+- ⚡ Improved request handling and UI reliability
+- 🌐 Country data powered by **countries.dev**
+
+### v0.6.0 Highlights
+
+- 📊 Added Insights view with D3.js visualizations
+- 👥 Added population, area, and density comparisons
+- 🌐 Migrated country data integration to countries.dev
+- ⚡ Improved request handling and UI reliability
 
 ### Currently Building
 
-- 📊 Interactive D3.js visualizations
 - 🗺️ Interactive world map
 - ⭐ Favorite countries
 - 🌍 Region-based exploration
+
+> The interactive world map is planned for **v0.7.0**.
+
+### Technologies Used
+
+React • Vite • Tailwind CSS • JavaScript (ES6+) • D3.js • countries.dev API • react-select • Local Storage • Git
+
+### 📸 Latest Demo
+
+![Atlas v0.6.0 Demo]([https://github.com/HrishikeshBajirao/](https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif))
 
 **Technologies Used**
 
