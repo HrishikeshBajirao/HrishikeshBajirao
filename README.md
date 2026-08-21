@@ -42,7 +42,7 @@ React • Vite • Tailwind CSS • JavaScript (ES6+) • D3.js • countries.de
 ![Atlas v0.6.0 Demo](https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif)
 
 <p align="center">
-  <img src="https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif" alt="Atlas Demo" width="400">
+  <img src="https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif" alt="Atlas Demo" width="600">
 </p>
 
 **Technologies Used**
