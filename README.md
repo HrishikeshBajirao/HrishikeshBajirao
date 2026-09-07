@@ -46,8 +46,8 @@ Full-stack architecture • React component design • REST API development • 
 
 Meteo is a full-stack weather application built to learn backend development, API architecture, and scalable server-side design.
 
+🌐 **Live Site: ** https://hrishikeshbajirao.github.io/meteo
 🔗 **Repository:** https://github.com/HrishikeshBajirao/meteo
-**Live Site: ** https://hrishikeshbajirao.github.io/meteo/
 
 ### Current Features
 
