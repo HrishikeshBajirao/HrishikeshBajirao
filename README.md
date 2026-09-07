@@ -8,7 +8,6 @@ Atlas is a full-stack data exploration platform for exploring, comparing, and vi
 
 🔗 **Repository:** [Atlas](https://github.com/HrishikeshBajirao/atlas)  
 🌐 **Live Site:** [Live](https://hrishikeshbajirao.github.io/atlas/)
-⚙️ **Backend API:** https://atlas-q289.onrender.com
 
 ### 🆕 Latest Release — v0.7.0
 
