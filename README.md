@@ -4,50 +4,44 @@ Welcome to my GitHub profile!
 
 ## 🌍 Featured Project — Atlas
 
-Atlas is a modern React application for exploring, comparing, and visualizing countries around the world.
+Atlas is a full-stack data exploration platform for exploring, comparing, and visualizing countries around the world.
 
-🔗 **Repository:** [Atlas](https://github.com/HrishikeshBajirao/atlas)
+🔗 **Repository:** [Atlas](https://github.com/HrishikeshBajirao/atlas)  
+🌐 **Live Site:** [](https://hrishikeshbajirao.github.io/atlas/)
+⚙️ **Backend API:** https://atlas-q289.onrender.com
 
-### 🆕 Latest Release — v0.6.0
+### 🆕 Latest Release — v0.7.0
 
-Atlas v0.6.0 introduces **Insights**, bringing interactive D3.js visualizations into the country comparison experience.
+Atlas v0.7.0 marks the transition to a **full-stack architecture**, introducing a dedicated Node.js/Express backend, richer historical data, and interactive geographic visualization.
 
 ### Current Features
 
-- 🔍 Searchable country search with autocomplete
-- 🆚 Dynamic multi-country comparison
-- 📋 Categorized comparison table
-- 🗂️ Cards, Table, and Insights views
-- 📊 Interactive D3.js visualizations
-- 👥 Population, area, and population-density comparisons
+- 🔍 Search and compare countries with autocomplete
+- 🗂️ Card, Table, and Insights views
+- 📊 Interactive D3.js data visualizations
+- 🗺️ World choropleth for population density
+- 📈 Historical GDP visualization across countries and years
 - 💾 Persistent recent searches
 - 📱 Responsive interface
-- ⚡ Improved request handling and UI reliability
-- 🌐 Country data powered by **countries.dev**
 
 ### Currently Building
 
-- 🗺️ Interactive world map
-- ⭐ Favorite countries
-- 🌍 Region-based exploration
-
-> The interactive world map is planned for **v0.7.0**.
+- 🌍 Interactive World Explorer
+- 📊 Richer country datasets and historical indicators
+- 🧭 Country profile with interactive visualizations
+- ⚡ Improved data architecture and backend capabilities
 
 ### Technologies Used
 
-React • Vite • Tailwind CSS • JavaScript (ES6+) • D3.js • countries.dev API • react-select • Local Storage • Git
+React • Node.js • Express • JavaScript (ES6+) • Vite • Tailwind CSS • D3.js • REST APIs • react-select • TopoJSON • Local Storage • Git
+
+### Skills Demonstrated
+
+Full-stack architecture • React component design • REST API development • State management • Data transformation • D3.js visualization • Asynchronous programming • Client-server communication • Responsive UI development • API integration • Production deployment
 
 ### 📸 Latest Demo
 
-![Atlas v0.6.0 Demo](https://github.com/HrishikeshBajirao/atlas/blob/main/assets/screenshots/atlas-demo-v0.6.0.gif)
-
-**Technologies Used**
-
-React • Vite • Tailwind CSS • JavaScript (ES6+) • REST Countries API • react-select • Local Storage • Git
-
-**Skills Demonstrated**
-
-React architecture • State management • REST API integration • Dynamic UI rendering • Third-party package integration • Responsive UI • Scalable frontend architecture
+![Atlas v0.6.0 Demo](https://github.com/HrishikeshBajirao/atlas/blob/main/client/assets/screenshots/atlas-demo-v0.6.0.gif)
 
 ## ☁️ Featured Project — Meteo
 
