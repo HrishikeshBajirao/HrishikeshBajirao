@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 Atlas is a full-stack data exploration platform for exploring, comparing, and visualizing countries around the world.
 
 🔗 **Repository:** [Atlas](https://github.com/HrishikeshBajirao/atlas)  
-🌐 **Live Site:** [](https://hrishikeshbajirao.github.io/atlas/)
+🌐 **Live Site:** [Live](https://hrishikeshbajirao.github.io/atlas/)
 ⚙️ **Backend API:** https://atlas-q289.onrender.com
 
 ### 🆕 Latest Release — v0.7.0
